@@ -1,0 +1,49 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,08:09:45:552,Long Strafe Bot,ADSable Hitscan Cone,3.393s,1880,554,0.295,505,1710,0.295,false
+2,08:09:50:059,Long Strafe Bot,ADSable Hitscan Cone,4.243s,1880,537,0.286,500,1710,0.292,false
+3,08:09:54:086,Long Strafe Bot,ADSable Hitscan Cone,3.763s,1704,500,0.293,500,1550,0.323,false
+4,08:09:57:017,Long Strafe Bot,ADSable Hitscan Cone,2.679s,1297,556,0.429,508,1180,0.431,false
+5,08:10:02:333,Long Strafe Bot,ADSable Hitscan Cone,5.056s,2386,550,0.231,507,2170,0.234,false
+6,08:10:06:736,Long Strafe Bot,ADSable Hitscan Cone,4.141s,2111,502,0.238,502,1920,0.261,false
+7,08:10:11:338,Long Strafe Bot,ADSable Hitscan Cone,4.34s,2078,505,0.243,505,1890,0.267,false
+8,08:10:16:107,Long Strafe Bot,ADSable Hitscan Cone,4.505s,2122,552,0.26,508,1930,0.263,false
+9,08:10:22:197,Long Strafe Bot,ADSable Hitscan Cone,5.828s,2793,504,0.18,504,2540,0.198,false
+10,08:10:26:930,Long Strafe Bot,ADSable Hitscan Cone,4.478s,2133,568,0.266,539,1940,0.278,false
+11,08:10:31:778,Long Strafe Bot,ADSable Hitscan Cone,4.585s,2408,510,0.212,506,2190,0.231,false
+12,08:10:37:002,Long Strafe Bot,ADSable Hitscan Cone,4.966s,2485,535,0.215,495,2260,0.219,false
+13,08:10:41:895,Long Strafe Bot,ADSable Hitscan Cone,4.632s,2441,469,0.192,469,2220,0.211,false
+14,08:10:49:723,Long Strafe Bot,ADSable Hitscan Cone,7.572s,3706,553,0.149,505,3370,0.15,false
+15,08:10:54:683,Long Strafe Bot,ADSable Hitscan Cone,4.698s,2276,507,0.223,507,2070,0.245,false
+16,08:10:59:938,Long Strafe Bot,ADSable Hitscan Cone,4.993s,2122,543,0.256,503,1930,0.261,false
+17,08:11:03:595,Long Strafe Bot,ADSable Hitscan Cone,3.394s,1660,546,0.329,505,1510,0.334,false
+18,08:11:08:841,Long Strafe Bot,ADSable Hitscan Cone,4.987s,2353,548,0.233,508,2140,0.237,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+ADSable Hitscan Cone,40440,9754,9273.0,36780.0,
+
+Kills:,18
+Deaths:,0
+Fight Time:,82.252998
+Avg TTK:,4.57
+Damage Done:,9273.0
+Damage Taken:,0.0
+Midairs:,137
+Midaired:,0
+Directs:,481
+Directed:,0
+Distance Traveled:,0.0
+Score:,2337.915283
+Scenario:,Ascended Tracking v3
+Hash:,46026d159b844451a38af3608d7c9e8a
+Game Version:,1.0.7.2
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Apex Legends
+Horiz Sens:,3.0
+Vert Sens:,3.0
+FOV:,104.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

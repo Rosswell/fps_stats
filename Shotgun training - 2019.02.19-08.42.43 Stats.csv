@@ -1,0 +1,36 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,08:42:07:560,Apex-Bot,EVA-8 Auto,14.891s,63,15,0.238,105,626.22,0.168,false
+1,08:42:07:560,Apex-Bot,Wingman,14.891s,3,0,0,0,270,0,false
+2,08:42:23:219,Apex-Bot,EVA-8 Auto,11.841s,81,11,0.136,79.94,805.14,0.099,false
+3,08:42:28:356,Apex-Bot,EVA-8 Auto,1.657s,18,2,0.111,16.94,178.92,0.095,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+EVA-8 Auto,162,28,201.880005,1610.276733,,,,,,false,MonkOrb1 103fov.png,1.0,D70304,,,
+Wingman,3,0,0.0,270.0,
+
+Kills:,3
+Deaths:,1
+Fight Time:,28.389
+Avg TTK:,9.463
+Damage Done:,201.880005
+Damage Taken:,146.579987
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,0.0
+Scenario:,Shotgun training
+Hash:,4de44d57f8d0487c0b325b7ab51f1714
+Game Version:,1.0.7.2
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Apex Legends
+Horiz Sens:,3.0
+Vert Sens:,3.0
+FOV:,104.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

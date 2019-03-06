@@ -1,0 +1,47 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,16:39:07:396,Long Strafe Bot,ADSable Hitscan Cone,3.356s,1858,508,0.273,506,1690,0.299,false
+2,16:39:11:536,Long Strafe Bot,ADSable Hitscan Cone,3.887s,1968,538,0.273,505,1790,0.282,false
+3,16:39:16:910,Long Strafe Bot,ADSable Hitscan Cone,5.123s,2364,537,0.227,500,2150,0.233,false
+4,16:39:23:118,Long Strafe Bot,ADSable Hitscan Cone,5.946s,3024,503,0.166,502,2750,0.183,false
+5,16:39:27:071,Long Strafe Bot,ADSable Hitscan Cone,3.693s,1770,503,0.284,503,1610,0.312,false
+6,16:39:33:435,Long Strafe Bot,ADSable Hitscan Cone,6.103s,2914,538,0.185,505,2650,0.191,false
+7,16:39:37:177,Long Strafe Bot,ADSable Hitscan Cone,3.481s,1759,505,0.287,505,1600,0.316,false
+8,16:39:44:707,Long Strafe Bot,ADSable Hitscan Cone,7.27s,3156,549,0.174,503,2870,0.175,false
+9,16:39:49:025,Long Strafe Bot,ADSable Hitscan Cone,4.056s,2023,539,0.266,504,1840,0.274,false
+10,16:39:53:403,Long Strafe Bot,ADSable Hitscan Cone,4.119s,1704,540,0.317,500,1550,0.323,false
+11,16:39:59:236,Long Strafe Bot,ADSable Hitscan Cone,5.571s,2782,537,0.193,500,2530,0.198,false
+12,16:40:05:637,Long Strafe Bot,ADSable Hitscan Cone,6.136s,3002,554,0.185,505,2730,0.185,false
+13,16:40:12:968,Long Strafe Bot,ADSable Hitscan Cone,7.08s,3486,540,0.155,503,3170,0.159,false
+14,16:40:19:141,Long Strafe Bot,ADSable Hitscan Cone,5.911s,3035,504,0.166,504,2760,0.183,false
+15,16:40:26:055,Long Strafe Bot,ADSable Hitscan Cone,6.661s,2991,547,0.183,506,2720,0.186,false
+16,16:40:30:952,Long Strafe Bot,ADSable Hitscan Cone,4.642s,2353,539,0.229,500,2140,0.234,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+ADSable Hitscan Cone,40255,8481,8051.0,36610.0,
+
+Kills:,16
+Deaths:,0
+Fight Time:,83.035004
+Avg TTK:,5.19
+Damage Done:,8051.0
+Damage Taken:,0.0
+Midairs:,88
+Midaired:,0
+Directs:,430
+Directed:,0
+Distance Traveled:,0.0
+Score:,1770.516235
+Scenario:,Ascended Tracking v3
+Hash:,46026d159b844451a38af3608d7c9e8a
+Game Version:,1.0.7.2
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Apex Legends
+Horiz Sens:,3.0
+Vert Sens:,3.0
+FOV:,104.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

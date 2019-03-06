@@ -1,0 +1,46 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,08:37:28:952,Long Strafe Bot,ADSable Hitscan Cone,5.459s,3013,638,0.212,622,2740,0.227,false
+2,08:37:33:057,Long Strafe Bot,ADSable Hitscan Cone,3.853s,1957,389,0.199,389,1780,0.219,false
+3,08:37:39:627,Long Strafe Bot,ADSable Hitscan Cone,6.306s,2727,539,0.198,502,2480,0.202,false
+4,08:37:45:198,Long Strafe Bot,ADSable Hitscan Cone,5.31s,2771,566,0.204,522,2520,0.207,false
+5,08:37:51:553,Long Strafe Bot,ADSable Hitscan Cone,6.096s,3233,534,0.165,489,2940,0.166,false
+6,08:37:54:613,Long Strafe Bot,ADSable Hitscan Cone,2.8s,1330,536,0.403,501,1210,0.414,false
+7,08:38:00:123,Long Strafe Bot,ADSable Hitscan Cone,5.246s,2045,541,0.265,506,1860,0.272,false
+8,08:38:08:603,Long Strafe Bot,ADSable Hitscan Cone,8.227s,4124,576,0.14,538,3750,0.143,false
+9,08:38:14:278,Long Strafe Bot,ADSable Hitscan Cone,5.621s,2980,564,0.189,555,2710,0.205,false
+10,08:38:19:625,Long Strafe Bot,ADSable Hitscan Cone,5.105s,2683,472,0.176,433,2440,0.177,false
+11,08:38:25:155,Long Strafe Bot,ADSable Hitscan Cone,5.268s,2749,504,0.183,504,2500,0.202,false
+12,08:38:31:287,Long Strafe Bot,ADSable Hitscan Cone,5.869s,3123,558,0.179,551,2840,0.194,false
+13,08:38:37:321,Long Strafe Bot,ADSable Hitscan Cone,5.781s,3112,471,0.151,432,2830,0.153,false
+14,08:38:43:716,Long Strafe Bot,ADSable Hitscan Cone,6.133s,2837,502,0.177,502,2580,0.195,false
+15,08:38:50:966,Long Strafe Bot,ADSable Hitscan Cone,6.988s,3717,541,0.146,502,3380,0.149,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+ADSable Hitscan Cone,43017,8043,7654.0,39120.0,
+
+Kills:,15
+Deaths:,0
+Fight Time:,84.061996
+Avg TTK:,5.604
+Damage Done:,7654.0
+Damage Taken:,0.0
+Midairs:,104
+Midaired:,0
+Directs:,389
+Directed:,0
+Distance Traveled:,0.0
+Score:,1497.538696
+Scenario:,Ascended Tracking v3
+Hash:,46026d159b844451a38af3608d7c9e8a
+Game Version:,1.0.7.2
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Apex Legends
+Horiz Sens:,3.0
+Vert Sens:,3.0
+FOV:,104.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

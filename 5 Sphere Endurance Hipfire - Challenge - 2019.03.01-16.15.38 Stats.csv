@@ -1,0 +1,51 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,16:15:25:869,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+2,16:15:26:536,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+3,16:15:27:203,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+4,16:15:28:003,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+5,16:15:28:603,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+6,16:15:29:287,TileFrenzy Sphere,16ML9 - 080,0.001s,1,1,1,1,1,1,false
+7,16:15:30:036,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+8,16:15:31:170,TileFrenzy Sphere,16ML9 - 080,0.392s,2,1,0.5,1,2,0.5,false
+9,16:15:31:945,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+10,16:15:32:570,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+11,16:15:32:886,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+12,16:15:33:436,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+13,16:15:34:062,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+14,16:15:34:597,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+15,16:15:35:022,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+16,16:15:35:630,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+17,16:15:36:297,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+18,16:15:36:864,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+19,16:15:37:724,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+20,16:15:38:557,TileFrenzy Sphere,16ML9 - 080,0.484s,2,1,0.5,1,2,0.5,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+16ML9 - 080,22,20,20.0,22.0,
+
+Kills:,20
+Deaths:,0
+Fight Time:,0.877
+Avg TTK:,0.044
+Damage Done:,20.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,18.181818
+Scenario:,5 Sphere Endurance Hipfire
+Hash:,790f8de704be4987a056fe9c82c3b0d2
+Game Version:,1.0.7.2
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Apex Legends
+Horiz Sens:,3.0
+Vert Sens:,3.0
+FOV:,104.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

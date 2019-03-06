@@ -1,0 +1,44 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,08:30:32:686,Long Strafe Bot,ADSable Hitscan Cone,4.512s,2496,551,0.221,508,2270,0.224,false
+2,08:30:40:797,Long Strafe Bot,ADSable Hitscan Cone,7.85s,4091,572,0.14,533,3720,0.143,false
+3,08:30:45:294,Long Strafe Bot,ADSable Hitscan Cone,4.232s,2188,520,0.238,480,1990,0.241,false
+4,08:30:51:484,Long Strafe Bot,ADSable Hitscan Cone,5.929s,3035,501,0.165,501,2760,0.182,false
+5,08:30:57:640,Long Strafe Bot,ADSable Hitscan Cone,5.895s,3035,502,0.165,502,2760,0.182,false
+6,08:31:04:146,Long Strafe Bot,ADSable Hitscan Cone,6.245s,2870,552,0.192,501,2610,0.192,false
+7,08:31:11:039,Long Strafe Bot,ADSable Hitscan Cone,6.631s,3068,588,0.192,544,2790,0.195,false
+8,08:31:18:355,Long Strafe Bot,ADSable Hitscan Cone,7.055s,3508,466,0.133,466,3190,0.146,false
+9,08:31:26:131,Long Strafe Bot,ADSable Hitscan Cone,7.521s,3937,539,0.137,500,3580,0.14,false
+10,08:31:33:987,Long Strafe Bot,ADSable Hitscan Cone,7.603s,3211,546,0.17,505,2920,0.173,false
+11,08:31:40:373,Long Strafe Bot,ADSable Hitscan Cone,6.124s,3189,539,0.169,501,2900,0.173,false
+12,08:31:48:235,Long Strafe Bot,ADSable Hitscan Cone,7.6s,3387,549,0.162,505,3080,0.164,false
+13,08:31:54:748,Long Strafe Bot,ADSable Hitscan Cone,6.253s,3255,542,0.167,502,2960,0.17,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+ADSable Hitscan Cone,42051,7057,6632.0,38240.0,
+
+Kills:,13
+Deaths:,0
+Fight Time:,83.449997
+Avg TTK:,6.419
+Damage Done:,6632.0
+Damage Taken:,0.0
+Midairs:,99
+Midaired:,0
+Directs:,425
+Directed:,0
+Distance Traveled:,0.0
+Score:,1150.194214
+Scenario:,Ascended Tracking v3
+Hash:,46026d159b844451a38af3608d7c9e8a
+Game Version:,1.0.7.2
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Apex Legends
+Horiz Sens:,3.0
+Vert Sens:,3.0
+FOV:,104.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

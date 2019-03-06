@@ -1,0 +1,44 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,03:34:26:337,target_decay,pistol,2.836s,5,1,0.2,25,250,0.1,false
+2,03:34:31:238,target_decay,pistol,4.743s,10,1,0.1,25,500,0.05,false
+3,03:34:32:123,target_decay,pistol,0s,1,1,1,25,50,0.5,false
+4,03:34:37:892,target_decay,pistol,5.532s,12,1,0.083,25,600,0.042,false
+5,03:34:39:698,target_decay,pistol,1.656s,2,1,0.5,25,100,0.25,false
+6,03:34:49:454,target_decay,pistol,9.495s,21,1,0.048,25,1050,0.024,false
+7,03:34:51:343,target_decay,pistol,1.656s,5,1,0.2,25,250,0.1,false
+8,03:34:59:195,target_decay,pistol,7.593s,13,1,0.077,25,650,0.038,false
+9,03:35:04:877,target_decay,pistol,5.506s,10,1,0.1,25,500,0.05,false
+10,03:35:05:796,target_decay,pistol,0.665s,2,1,0.5,25,100,0.25,false
+11,03:35:09:715,target_decay,pistol,3.795s,8,1,0.125,25,400,0.062,false
+12,03:35:11:606,target_decay,pistol,1.737s,4,1,0.25,25,200,0.125,false
+13,03:35:18:813,target_decay,pistol,7.042s,16,1,0.062,25,800,0.031,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,110,13,325.0,5500.0,
+
+Kills:,13
+Deaths:,0
+Fight Time:,52.256001
+Avg TTK:,4.02
+Damage Done:,325.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,153.636368
+Scenario:,Reflex Flick - Easy
+Hash:,ef27111b87fbf841b0e6274140276c01
+Game Version:,1.0.7.1
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Apex Legends
+Horiz Sens:,5.0
+Vert Sens:,5.0
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

@@ -1,0 +1,50 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,09:57:27:313,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+2,09:57:28:037,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+3,09:57:28:713,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+4,09:57:29:496,TileFrenzy Sphere,16ML9 - 080,0.334s,2,1,0.5,1,2,0.5,false
+5,09:57:29:946,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+6,09:57:30:438,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+7,09:57:31:512,TileFrenzy Sphere,16ML9 - 080,0.408s,2,1,0.5,1,2,0.5,false
+8,09:57:32:013,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+9,09:57:33:229,TileFrenzy Sphere,16ML9 - 080,0.708s,2,1,0.5,1,2,0.5,false
+10,09:57:34:338,TileFrenzy Sphere,16ML9 - 080,0.624s,2,1,0.5,1,2,0.5,false
+11,09:57:35:046,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+12,09:57:35:496,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+13,09:57:35:929,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+14,09:57:37:229,TileFrenzy Sphere,16ML9 - 080,0.8s,2,1,0.5,1,2,0.5,false
+15,09:57:37:654,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+16,09:57:38:096,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+17,09:57:38:563,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+18,09:57:39:163,TileFrenzy Sphere,16ML9 - 080,0.001s,1,1,1,1,1,1,false
+19,09:57:39:721,TileFrenzy Sphere,16ML9 - 080,0s,1,1,1,1,1,1,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+16ML9 - 080,24,19,19.0,24.0,
+
+Kills:,19
+Deaths:,0
+Fight Time:,2.875
+Avg TTK:,0.151
+Damage Done:,19.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,15.041667
+Scenario:,5 Sphere Endurance Hipfire
+Hash:,790f8de704be4987a056fe9c82c3b0d2
+Game Version:,1.0.7.2
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Apex Legends
+Horiz Sens:,3.0
+Vert Sens:,3.0
+FOV:,104.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

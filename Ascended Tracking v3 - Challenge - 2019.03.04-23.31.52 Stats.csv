@@ -1,0 +1,50 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,23:30:28:710,Long Strafe Bot,ADSable Hitscan Cone,4.639s,2562,522,0.204,508,2330,0.218,false
+2,23:30:33:172,Long Strafe Bot,ADSable Hitscan Cone,4.205s,2177,541,0.249,504,1980,0.255,false
+3,23:30:37:449,Long Strafe Bot,ADSable Hitscan Cone,4.02s,1902,558,0.293,509,1730,0.294,false
+4,23:30:42:944,Long Strafe Bot,ADSable Hitscan Cone,5.234s,2705,541,0.2,500,2460,0.203,false
+5,23:30:47:770,Long Strafe Bot,ADSable Hitscan Cone,4.567s,2342,549,0.234,500,2130,0.235,false
+6,23:30:52:758,Long Strafe Bot,ADSable Hitscan Cone,4.014s,2221,546,0.246,504,2020,0.25,false
+7,23:30:57:890,Long Strafe Bot,ADSable Hitscan Cone,4.868s,2386,540,0.226,501,2170,0.231,false
+8,23:31:03:351,Long Strafe Bot,ADSable Hitscan Cone,5.204s,2474,544,0.22,505,2250,0.224,false
+9,23:31:08:794,Long Strafe Bot,ADSable Hitscan Cone,4.832s,2672,550,0.206,502,2430,0.207,false
+10,23:31:11:636,Long Strafe Bot,ADSable Hitscan Cone,2.583s,1165,538,0.462,500,1060,0.472,false
+11,23:31:16:001,Long Strafe Bot,ADSable Hitscan Cone,4.101s,2111,546,0.259,500,1920,0.26,false
+12,23:31:20:342,Long Strafe Bot,ADSable Hitscan Cone,4.087s,1869,787,0.421,713,1700,0.419,false
+13,23:31:22:187,Long Strafe Bot,ADSable Hitscan Cone,1.582s,879,322,0.366,295,800,0.369,false
+14,23:31:27:256,Long Strafe Bot,ADSable Hitscan Cone,4.814s,2353,505,0.215,505,2140,0.236,false
+15,23:31:32:560,Long Strafe Bot,ADSable Hitscan Cone,5.039s,2452,536,0.219,505,2230,0.226,false
+16,23:31:37:323,Long Strafe Bot,ADSable Hitscan Cone,4.507s,1968,542,0.275,500,1790,0.279,false
+17,23:31:41:474,Long Strafe Bot,ADSable Hitscan Cone,3.898s,1990,502,0.252,502,1810,0.277,false
+18,23:31:45:831,Long Strafe Bot,ADSable Hitscan Cone,4.095s,1792,500,0.279,500,1630,0.307,false
+19,23:31:52:137,Long Strafe Bot,ADSable Hitscan Cone,6.046s,2771,536,0.193,501,2520,0.199,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+ADSable Hitscan Cone,40857,10205,9554.0,37160.0,
+
+Kills:,19
+Deaths:,0
+Fight Time:,82.334999
+Avg TTK:,4.333
+Damage Done:,9554.0
+Damage Taken:,0.0
+Midairs:,236
+Midaired:,0
+Directs:,651
+Directed:,0
+Distance Traveled:,0.0
+Score:,2456.375732
+Scenario:,Ascended Tracking v3
+Hash:,46026d159b844451a38af3608d7c9e8a
+Game Version:,1.0.7.2
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Apex Legends
+Horiz Sens:,3.0
+Vert Sens:,3.0
+FOV:,104.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

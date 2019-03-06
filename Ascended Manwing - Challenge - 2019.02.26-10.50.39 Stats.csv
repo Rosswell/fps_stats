@@ -1,0 +1,33 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,10:50:17:411,Long Strafe Bot,Manwing,34.526s,23,3,0.13,600,9200,0.065,false
+2,10:50:34:931,Long Strafe Bot,Manwing,14.684s,10,3,0.3,600,4000,0.15,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Manwing,36,6,1200.0,14400.0,
+
+Kills:,2
+Deaths:,0
+Fight Time:,49.209999
+Avg TTK:,24.605
+Damage Done:,1200.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,1440.0
+Scenario:,Ascended Manwing
+Hash:,c87f56931e71991dcb007a58d590f53a
+Game Version:,1.0.7.2
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Apex Legends
+Horiz Sens:,3.0
+Vert Sens:,3.0
+FOV:,104.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

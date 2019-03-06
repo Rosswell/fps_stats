@@ -1,0 +1,44 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,08:32:18:195,Long Strafe Bot,ADSable Hitscan Cone,3.772s,2089,551,0.264,545,1900,0.287,false
+2,08:32:25:406,Long Strafe Bot,ADSable Hitscan Cone,6.943s,2980,495,0.166,465,2710,0.172,false
+3,08:32:31:283,Long Strafe Bot,ADSable Hitscan Cone,5.621s,2925,552,0.189,508,2660,0.191,false
+4,08:32:36:437,Long Strafe Bot,ADSable Hitscan Cone,4.902s,2265,554,0.245,506,2060,0.246,false
+5,08:32:43:278,Long Strafe Bot,ADSable Hitscan Cone,6.578s,3365,535,0.159,504,3060,0.165,false
+6,08:32:50:606,Long Strafe Bot,ADSable Hitscan Cone,7.066s,3464,500,0.144,500,3150,0.159,false
+7,08:32:57:568,Long Strafe Bot,ADSable Hitscan Cone,6.705s,3464,548,0.158,500,3150,0.159,false
+8,08:33:03:809,Long Strafe Bot,ADSable Hitscan Cone,5.978s,2606,545,0.209,500,2370,0.211,false
+9,08:33:10:738,Long Strafe Bot,ADSable Hitscan Cone,6.67s,3145,529,0.168,502,2860,0.176,false
+10,08:33:18:824,Long Strafe Bot,ADSable Hitscan Cone,7.826s,3904,541,0.139,501,3550,0.141,false
+11,08:33:26:443,Long Strafe Bot,ADSable Hitscan Cone,7.359s,3486,659,0.189,616,3170,0.194,false
+12,08:33:32:956,Long Strafe Bot,ADSable Hitscan Cone,6.254s,2958,544,0.184,502,2690,0.187,false
+13,08:33:38:801,Long Strafe Bot,ADSable Hitscan Cone,5.585s,2661,393,0.148,393,2420,0.162,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+ADSable Hitscan Cone,41435,7296,6864.0,37680.0,
+
+Kills:,13
+Deaths:,0
+Fight Time:,81.259003
+Avg TTK:,6.251
+Damage Done:,6864.0
+Damage Taken:,0.0
+Midairs:,126
+Midaired:,0
+Directs:,432
+Directed:,0
+Distance Traveled:,0.0
+Score:,1250.384766
+Scenario:,Ascended Tracking v3
+Hash:,46026d159b844451a38af3608d7c9e8a
+Game Version:,1.0.7.2
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Apex Legends
+Horiz Sens:,3.0
+Vert Sens:,3.0
+FOV:,104.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

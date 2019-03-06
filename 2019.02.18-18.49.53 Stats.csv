@@ -1,0 +1,35 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:48:46:486,Apex-Bot,EVA-8 Auto,0.001s,9,8,0.889,56,89.46,0.626,false
+2,18:48:50:089,Apex-Bot,EVA-8 Auto,0.617s,18,8,0.444,56,178.92,0.313,false
+3,18:48:56:022,Apex-Bot,EVA-8 Auto,5.699s,45,6,0.133,42,447.3,0.094,true
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+EVA-8 Auto,198,30,210.0,1968.114624,,,,,,false,MonkOrb1 103fov.png,1.0,D70304,,,
+Wingman,0,0,0.0,0.0,
+
+Kills:,3
+Deaths:,0
+Fight Time:,6.317
+Avg TTK:,2.106
+Damage Done:,210.0
+Damage Taken:,116.759995
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,0.0
+Scenario:,Shotgun training
+Hash:,
+Game Version:,1.0.7.2
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Apex Legends
+Horiz Sens:,3.0
+Vert Sens:,3.0
+FOV:,104.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

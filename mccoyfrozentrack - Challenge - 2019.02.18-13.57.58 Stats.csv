@@ -1,0 +1,38 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,13:57:34:612,MovingTarget,Six Shooter,4.834s,6,2,0.333,140,840,0.167,false
+2,13:57:43:562,MovingTarget,Six Shooter,7.833s,12,3,0.25,280,1680,0.167,false
+3,13:57:46:054,MovingTarget,Six Shooter,0.617s,2,2,1,140,280,0.5,false
+4,13:57:48:120,MovingTarget,Six Shooter,0.508s,2,2,1,140,280,0.5,false
+5,13:57:50:229,MovingTarget,Six Shooter,1.575s,4,1,0.25,140,560,0.25,false
+6,13:57:56:155,MovingTarget,Six Shooter,4.258s,7,2,0.286,210,980,0.214,false
+7,13:57:58:046,MovingTarget,Six Shooter,0.809s,2,1,0.5,70,280,0.25,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Six Shooter,35,13,1120.0,4900.0,
+
+Kills:,7
+Deaths:,0
+Fight Time:,20.434
+Avg TTK:,2.919
+Damage Done:,1120.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,95.085716
+Scenario:,mccoyfrozentrack
+Hash:,bdeef293820a694ba85cadbd4e8c0caf
+Game Version:,1.0.7.1
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Apex Legends
+Horiz Sens:,5.0
+Vert Sens:,5.0
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF

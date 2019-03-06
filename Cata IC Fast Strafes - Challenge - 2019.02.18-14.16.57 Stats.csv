@@ -1,0 +1,35 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,14:16:09:991,Quaker Bot Fast Strafes,LG,11.266s,246,50,0.203,300,1476,0.203,false
+2,14:16:19:742,Quaker Bot Fast Strafes,LG,9.477s,174,50,0.287,300,1044,0.287,false
+3,14:16:32:093,Quaker Bot Fast Strafes,LG,12.076s,230,50,0.217,300,1380,0.217,false
+4,14:16:44:293,Quaker Bot Fast Strafes,LG,11.926s,229,50,0.218,300,1374,0.218,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,1135,245,1470.0,6810.0,
+
+Kills:,4
+Deaths:,0
+Fight Time:,44.744999
+Avg TTK:,11.186
+Damage Done:,1470.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,374.84845
+Score:,951.938293
+Scenario:,Cata IC Fast Strafes
+Hash:,ae0024fa5045348cf5200beda4716333
+Game Version:,1.0.7.1
+
+Input Lag:,0
+Max FPS (config):,120.0
+Sens Scale:,Apex Legends
+Horiz Sens:,4.5
+Vert Sens:,4.5
+FOV:,90.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFFFF
